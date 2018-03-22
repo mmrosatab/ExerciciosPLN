@@ -1,0 +1,23 @@
+Abertura: 03 de agosto de 2017 – 19h
+Período de exposição: até 03 de dezembro de 2017 [PRORROGADA ATÉ 04 DE MARÇO DE 2018]
+Informações para a imprensa - Secretaria da Cultura do Estado de São Paulo 
+Gisele Turteltaub: (11) 3339-8162 | gisele@sp.gov.br
+Gabriela Carvalho: (11) 3339-8070 | gabrielacarvalho@sp.gov.br
+
+19/dez/2009 (sab) → a forma está correta, mas pode induzir ao erro porque a pessoa pode associar a sigla dez (dezembro) ao mês 10 (outubro). Para evitar confusão, quando for dezembro escreva por extenso (19 de dezembro de 2009) ou use o numeral 12 (19/12/2009).
+
+eu moro na rua jose bonifacio n. 50 
+
+Por exemplo, este número de telefone celular pertence a Brasília:
+
+(61) 98211-1221
+Como enviar torpedo/SMS para um telefone celular, na mesma área de DDD
+
+Caso você esteja com um telefone celular instalado na mesma área de DDD do que o celular para o qual  deseja enviar SMS, basta marcar os nove dígitos do número de identificação correspondentes ao prefixo e sufixo, como destinatário de sua mensagem. 
+
+Por exemplo, a partir de um telefone celular registrado e em operação em Brasilia, basta enviar SMS para
+
+98211-1221
+Como enviar torpedo/SMS para um telefone celular, a partir de outra área de DDD?
+
+Quando o telefone celular a partir do qual se está enviando SMS está habilitado em outra área de DDD do que o telefone de destino, então é necessário marcar ZERO, seguido de um código de operadora (veja abaixo), mais o número de identificação completo (DDD, prefixo e sufixo).
